@@ -73,22 +73,6 @@ Extended the xv6 operating system with custom system calls and three scheduler i
 
 ---
 
-
-
-## 📊 GitHub Statistics
-
-<div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mehr1sh&show_icons=true&theme=dracula&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mehr1sh&layout=compact&theme=dracula&hide_border=true)
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=mehr1sh&theme=dracula)](https://git.io/streak-stats)
-
-</div>
-
----
-
 ## 🏆 Academic Background
 
 **B.Tech Computer Science (Dual-Degree)**  
@@ -123,9 +107,3 @@ As a second-year CS dual-degree student at IIIT Hyderabad, I'm actively explorin
 </div>
 
 ---
-
-<div align="center">
-  <i>Always learning, always building. Let's create something extraordinary.</i>
-  
-  ![Profile Views](https://komarev.com/ghpvc/?username=mehr1sh&color=blueviolet)
-</div>

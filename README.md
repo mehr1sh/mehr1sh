@@ -61,7 +61,7 @@ Custom Unix shell implementation in C with support for I/O redirection, piping, 
 ### [Spellbound-Sprint](https://github.com/mehr1sh/Spellbound-Sprint)
 Interactive web-based game with smooth animations and game mechanics. Features GIF-based visuals and responsive UI.
 
-**Tech:** JavaScript, React, Netlify, CSS animations
+**Tech:** JavaScript, p5.js, replit
 
 
 ---

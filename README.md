@@ -10,7 +10,7 @@ I'm a second-year Computer Science dual-degree student at **IIIT Hyderabad** cur
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 **Languages**  
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
@@ -35,7 +35,7 @@ I'm a second-year Computer Science dual-degree student at **IIIT Hyderabad** cur
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 
 ### [NetworkDoc](https://github.com/mehr1sh/NetworkDoc)
@@ -73,7 +73,7 @@ Extended the xv6 operating system with custom system calls and three scheduler i
 
 ---
 
-## 🏆 Academic Background
+## Academic Background
 
 **B.Tech Computer Science (Dual-Degree)**  
 IIIT Hyderabad — Hyderabad, India
@@ -87,7 +87,7 @@ IIIT Hyderabad — Hyderabad, India
 
 ---
 
-## 🤝 Let's Connect
+## Let's Connect
 
 As a second-year CS dual-degree student at IIIT Hyderabad, I'm actively exploring Machine Learning, Self-Adaptive Systems, and many other exciting disciplines. Still discovering my research focus while building strong foundations across multiple domains.
 
